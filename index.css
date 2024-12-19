@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+main{
+    padding-bottom: 100px;
+}
+
+.container{
+    width: 1440px;
+    margin: 0 auto;  
+}
+
+.navbar{
+    padding: 20px 70px;
+    box-shadow: 0px 4px 8.7px 0px #00000040;
+
+}
+.img{
+    margin-right: 60px;
+}
+
+.nav_list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav_list button{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.05px;
+    color: red;
+    background-color: transparent;
+    border-radius: 15px;
+    border: 2px solid red;
+    width: 200px;
+    height: 60px;
+}
+
+.nav_link{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.05px;
+    color: #BCAAAA;
+
+}
+.red{
+    color: red;
+}
+
+.nav_li{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    padding: 60px 80px;
+}
+
+.link{
+    display: flex;
+    align-items: center;
+}
+
+.link h3{
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48.41px;
+     color: #0D0C5C;
+    padding-left: 5px;
+}
+
+.link input{
+    width: 350px;
+    height: 50px;
+    top: 216px;
+    border-radius: 10px;
+    opacity: 0px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.btn{
+    width: 116px;
+    height: 50px;
+    top: 216px;
+    left: 852px;
+    border-radius: 10px;
+    opacity: 0px;
+    background-color: #0D0C5C;
+    color: white;
+    font-size: 20px;
+}
+
+.button{
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38.73px;
+    color: #EF400F;
+    border: none;
+    background-color: transparent;
+}
+.text{
+    margin-left: 120px;
+}
+
+.soat{
+    margin-left: 120px;
+}
+
+.click{
+    margin-left: 15px;
+}
+
+.soat img{
+    margin-right: 20px;
+}
+
+.div{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin: 106px 134px ;
+    margin-bottom: -30px;
+
+}
+
+.div2{
+    width: 290px;
+    height: 290px;
+    top: 396px;
+    left: 97px;
+    gap: 0px;
+    border-radius: 30px;
+    box-shadow: 0px 4px 13.3px 0px #00000040;
+}
+
+.div2 h3{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 18.15px;
+    color: black;
+    text-align: center;
+}
+
+.div2 p{
+   font-size: 13px;
+   font-weight: 300;
+   line-height: 15.73px;
+   color: #000000BF;
+   text-align: center;
+}
+
+.div2 img{
+   margin: 0 auto;
+   display: block;
+   
+}
+
+.dv{
+    width: 100px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.dv span{
+    margin-top:25px ;
+}
